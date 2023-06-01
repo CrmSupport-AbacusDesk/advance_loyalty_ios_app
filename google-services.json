@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893824522432",
+    "firebase_url": "https://advance-laminate-1577441093355.firebaseio.com",
+    "project_id": "advance-laminate-1577441093355",
+    "storage_bucket": "advance-laminate-1577441093355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893824522432:android:ef85310f615ec4968c7525",
+        "android_client_info": {
+          "package_name": "com.laminates.advance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893824522432-v5icnm1hd0p3tp0gmie4q5dsjdudi0d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv3i5rkEdEQHAKWYOt_YgYuSXbaAzSMTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893824522432-v5icnm1hd0p3tp0gmie4q5dsjdudi0d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
